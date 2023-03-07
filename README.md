@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gyunay-kadirov-062131220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gyunay-kadirov-062131220/" height="30" width="40" /></a>
 <a href="https://instagram.com/synarodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="synarodin" height="30" width="40" /></a>
-<a href="https://discord.gg/Odin#2453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Odin#2453" height="30" width="40" /></a>
 </p>
 
 <!--- Skillｓ --->
