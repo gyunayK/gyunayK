@@ -11,9 +11,8 @@
 <h3>A FRONT END DEVELOPER</h3>
 
 <ul>
-  <li>👩‍💻 All of my projects are available on <a href="https://portfolio-react-liard-three.vercel.app/">my portfolio</a></li>
-  <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/atenahatta" target="blank">LinkedIn</a></li>
-  <li>📭 Contact <a href="mailto:hattaatena@gmail.com">hattaatena@gmail.com</a></li>
+  <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
+  <li>📭 Contact <a href="mailto:gyunay@hotmail.dk">gyunay@hotmail.dk</a></li>
 </ul>
 
 <!--- Skills --->
