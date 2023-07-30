@@ -2,6 +2,7 @@
 <h3 align="left">I am a passionate developer from Denmark</h3>
 
 <ul>
+  <li>💻 Check out <a href="https://gyunay-kadirov.com/">My portfolio</a></li>
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
   <li>📭 Contact <a href="mailto:gyunay@hotmail.dk">gyunay@hotmail.dk</a></li>
 </ul>
