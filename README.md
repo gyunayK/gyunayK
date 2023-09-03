@@ -11,8 +11,16 @@
 <h3 align="left">LANGUAGE AND TOOLS</h3>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nextjs,nodejs,express,mongodb,docker,materialui,styledcomponents,tailwind,sass,bootstrap,html,css,vercel,git,figma" />
+    <br/>
+  <img src="https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,sass,bootstrap,html,css,vercel,git,figma" />
  </a>
 <br>
+
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,docker,supabase" />
+  <br/>
+   <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,sass,bootstrap,css,html,git,figma" />
+ </a>
 
 <!--- Status & lamguage --->
 <p align="left"> 
