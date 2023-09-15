@@ -21,3 +21,5 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyunayK&layout=compact&theme=omni" />
 </p>
 <br>
+
+![Snake animation](https://github.com/thepiyushmalhotra/gyunayK/blob/output/github-contribution-grid-snake.svg)
