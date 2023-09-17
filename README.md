@@ -22,4 +22,3 @@
 </p>
 <br>
 
-![Snake animation](https://github.com/thepiyushmalhotra/gyunayK/blob/output/github-contribution-grid-snake.svg)
