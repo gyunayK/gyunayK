@@ -17,8 +17,8 @@
 <br>
 <!--- Status & lamguage --->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=gyunayK&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyunayK&layout=compact&theme=omni" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-tawny-six-61.vercel.app/api?username=gyunayK&show_icons=true&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-tawny-six-61.vercel.app/api/top-langs/?username=gyunayK&layout=compact&theme=omni" />
 </p>
 <br>
 
