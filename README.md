@@ -4,7 +4,7 @@
 <ul>
   <li>💻 Check out <a href="https://gyunay-kadirov.com/">My Portfolio</a></li>
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
-  <li>📭 Contact <a href="mailto:gyunay@hotmail.dk">gyunay@hotmail.dk</a></li>
+  <li>📭 Contact <a href="mailto:web-dev@gyunay-kadirov.com">web-dev@gyunay-kadirov.com</a></li>
 </ul>
 
 <!--- Skills --->
