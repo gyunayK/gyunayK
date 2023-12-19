@@ -8,7 +8,7 @@
 </ul>
 
 <!--- Skills --->
-<h3 align="left">LANGUAGES AND TOOLS</h3>
+<h3 align="left">LANGUAGES ^^ TOOLS</h3>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nextjs,nodejs,express,mongodb,docker" />
     <br/>
