@@ -8,7 +8,7 @@
 </ul>
 
 <!--- What I'm Doing Currently --->
-<h3 align="left">What I'm Doing Currently</h3>
+<h3 align="left">Currently</h3>
 <ul>
   <li>📚 Studying for the AWS Certified Solutions Architect - Associate exam</li>
 </ul>
