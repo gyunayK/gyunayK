@@ -16,9 +16,10 @@
 <!--- Skills --->
 <h3 align="left">LANGUAGES & TOOLS</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nextjs,nodejs,express,mongodb,docker" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,sass,bootstrap,html,css,vercel,git" />
+ <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nextjs,nodejs,express,mongodb,docker,mysql,php,graphql,cicd,strapi,mantine,stripe,aws,jenkins" />
+<br/>
+<img src="https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,sass,bootstrap,html,css,vercel,git" />
+
 </a>
 <br>
 <br>
