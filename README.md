@@ -19,7 +19,6 @@
  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nextjs,nodejs,express,mongodb,docker,mysql,php,graphql,cicd,strapi,mantine,stripe" />
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,jenkins,materialui,styledcomponents,tailwind,sass,bootstrap,html,css,vercel,git" />
-
 </a>
 <br>
 <br>
