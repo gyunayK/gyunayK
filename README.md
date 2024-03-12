@@ -10,7 +10,7 @@
 <!--- What I'm Doing Currently --->
 <h3 align="left">Currently</h3>
 <ul>
-  <li>📚 Studying for the AWS Certified Solutions Architect - Associate exam</li>
+  <li>📚 Studying for the AWS Solutions Architect - Associate exam</li>
 </ul>
 
 <!--- Skills --->
