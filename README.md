@@ -10,7 +10,7 @@
 <!--- What I'm Doing Currently --->
 <h3 align="left">Currently</h3>
 <ul>
-  <li>I am currently interning at <a href="https://www.icepanel.io" style="color: #FFFFFF; text-decoration: underline;">IcePanel</a>🧊.</li>
+  <li>I am interning at <a href="https://www.icepanel.io" style="color: #FFFFFF; text-decoration: underline;">IcePanel</a>🧊.</li>
 </ul>
 
 <!--- Skills --->
