@@ -12,7 +12,6 @@
 <ul>
   <li>I am studying data structures and algorithms.</li>
 </ul>
-<br>
 <!--- Skills --->
 <h3 align="left">LANGUAGES & TOOLS</h3>
 <a href="https://skillicons.dev">
