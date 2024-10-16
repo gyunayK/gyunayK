@@ -10,7 +10,7 @@
 <!--- What I'm Doing Currently --->
 <h3 align="left">Currently</h3>
 <ul>
-  <li>I am studying data structures and algorithms.</li>
+  <li>I am studying data structures and algorithms</li>
 </ul>
 <!--- Skills --->
 <h3 align="left">LANGUAGES & TOOLS</h3>
