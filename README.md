@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gyunay</h1>
-<h3 align="left">I am a passionate Software Developer from Denmark</h3>
+<h3 align="left">I am a Software Developer from Denmark</h3>
 
 <ul>
   <li>💻 Check out <a href="https://gyunay-kadirov.com/">My Portfolio</a></li>
