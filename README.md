@@ -10,8 +10,10 @@
 <!--- What I'm Doing Currently --->
 <h3 align="left">Currently</h3>
 <ul>
-  <li>I am studying data structures and algorithms</li>
+  <li>Preparing for the Computer Science program at Langara College</li>
+  <li>Focusing on data structures and algorithms</li>
 </ul>
+
 <!--- Skills --->
 <h3 align="left">LANGUAGES & TOOLS</h3>
 <a href="https://skillicons.dev">
