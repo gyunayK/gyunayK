@@ -2,9 +2,8 @@
 <h3 align="left">I am a Software Developer from Denmark</h3>
 
 <ul>
-  <li>💻 Check out <a href="https://gyunay-kadirov.com/">My Portfolio</a></li>
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
-  <li>📭 Contact <a href="mailto:web-dev@gyunay-kadirov.com">web-dev@gyunay-kadirov.com</a></li>
+  <li>📭 Reach me at <a href="mailto:gyunay70@gmail.com">gyunay70@gmail.com</a></li>
 </ul>
 
 <!--- What I'm Doing Currently --->
@@ -18,11 +17,17 @@
 
 
 <!--- Skills --->
-<h3 align="left">LANGUAGES & TOOLS</h3>
+<h3 align="left">Languages & Tools</h3>
+<p><b>Frontend:</b></p>
 <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=vue,react,redux,ts,js,nextjs,html,css,materialui,styledcomponents,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=vue,react,redux,ts,js,nextjs,html,css,materialui,styledcomponents,tailwind,sass,bootstrap" />
+</a>
+
+<p><b>Backend & Tools:</b></p>
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,graphql,aws,jenkins,vercel,git,docker" />
 </a>
+
 <br>
 
 <!--- Status & Language --->
