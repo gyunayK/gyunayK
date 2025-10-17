@@ -10,8 +10,9 @@
 <h3 align="left">Currently</h3>
 <ul>
   <li>🎓 Studying Computer Science at Langara College</li>
-  <li>📚 Learning data structures, algorithms, and building cool projects along the way</li>
-  <li>✨ I enjoy creating something that people use and love</li>
+  <li>🧑‍💻 Assistant Software Developer @ Cornerstone</li>
+  <li>🧑‍💻 Building <em>Gojobs</em> — a solo job posting/hiring product</li>
+  <li>🔁 Discover → Define → Design → Build → Measure → Iterate</li>
 </ul>
 
 
