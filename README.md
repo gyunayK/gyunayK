@@ -11,8 +11,7 @@
 <ul>
   <li>🎓 Studying Computer Science at Langara College</li>
   <li>📚 Learning data structures, algorithms, and building cool projects along the way</li>
-  <li>✨ I enjoy creating something that people use and love, and I particularly enjoy working with beautiful UI designs</li>
-  <li>🚀 Open to part-time software development roles — feel free to reach out!</li>
+  <li>✨ I enjoy creating something that people use and love</li>
 </ul>
 
 
