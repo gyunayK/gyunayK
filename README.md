@@ -2,7 +2,7 @@
 <h3 align="left">I am a Software Developer</h3>
 
 <ul>
-  <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
+  <li>📄 Explore my background on <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
   <li>📭 Reach me at <a href="mailto:gyunay70@gmail.com">gyunay70@gmail.com</a></li>
 </ul>
 
