@@ -2,8 +2,8 @@
 <h3 align="left">Software Developer</h3>
 
 <ul>
-  <li>📄 Explore my background on <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
-  <li>📭 Reach me at <a href="mailto:gyunay70@gmail.com">gyunay70@gmail.com</a></li>
+  <li>📄 <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
+  <li>📭 <a href="mailto:gyunay70@gmail.com">gyunay70@gmail.com</a></li>
 </ul>
 
 <!--- What I'm Doing Currently --->
