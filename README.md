@@ -1,19 +1,19 @@
 <h1 align="left">Hi 👋, I'm Gyunay</h1>
-<h3 align="left">Software Developer</h3>
+<!-- <h3 align="left">Software Developer</h3> -->
+<!--- What I'm Doing Currently --->
+<h3 align="left">Currently</h3>
+<ul>
+  <li>🎓 I am studying Computer Science at Langara College</li>
+  <li>🧑‍💻 Software Developer @ Cornerstone</li>
+  <li>🧑‍💻 Building <a href="https://gojobs.app/" target="blank">GoJobs</a><em>Gojobs</em> — a job posting/hiring platform</li>
+  <li>🔁 Discover → Define → Design → Build → Measure → Iterate</li>
+</ul>
 
 <ul>
   <li>📄 <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
   <li>📭 <a href="mailto:gyunay70@gmail.com">gyunay70@gmail.com</a></li>
 </ul>
 
-<!--- What I'm Doing Currently --->
-<h3 align="left">Currently</h3>
-<ul>
-  <li>🎓 Studying Computer Science at Langara College</li>
-  <li>🧑‍💻 Assistant Software Developer @ Cornerstone</li>
-  <li>🧑‍💻 Building <em>Gojobs</em> — a solo job posting/hiring product</li>
-  <li>🔁 Discover → Define → Design → Build → Measure → Iterate</li>
-</ul>
 
 
 <!--- Skills --->
