@@ -17,7 +17,7 @@
 
 
 <!--- Skills --->
-<h3 align="left">Languages & Tools</h3>
+<!-- <h3 align="left">Languages & Tools</h3>
 <p><b>Frontend:</b></p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vue,react,redux,ts,js,nextjs,html,css,materialui,styledcomponents,tailwind,sass,bootstrap" />
@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,graphql,aws,jenkins,vercel,git,docker" />
 </a>
 
-<br>
+<br> -->
 
 <!--- Status & Language --->
 <!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats-tawny-six-61.vercel.app/api?username=gyunayK&show_icons=true&theme=radical" /> -->
