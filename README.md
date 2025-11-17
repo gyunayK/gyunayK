@@ -9,6 +9,7 @@
   <li>🔁 Discover → Define → Design → Build → Measure → Iterate</li>
 </ul>
 
+<h3 align="left">Sociols </h3>
 <ul>
   <li>📄 <a href="https://www.linkedin.com/in/gyunayK" target="blank">LinkedIn</a></li>
   <li>📭 <a href="mailto:gyunay70@gmail.com">gyunay70@gmail.com</a></li>
