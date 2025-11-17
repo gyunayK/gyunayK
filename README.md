@@ -5,7 +5,7 @@
 <ul>
   <li>🎓 I am studying Computer Science at Langara College</li>
   <li>🧑‍💻 Software Developer @ Cornerstone</li>
-  <li>🧑‍💻 Building <a href="https://gojobs.app/" target="blank"><em>Gojobs</em></a> — a job posting/hiring platform</li>
+  <li>🧑‍💻 Building <a href="https://gojobs.app/" target="_blank"><em>GoJobs</em></a> — a job search platform to help people find their next role</li>
   <li>🔁 Discover → Define → Design → Build → Measure → Iterate</li>
 </ul>
 
