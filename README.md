@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Gyunay</h1>
 <!-- <h3 align="left">Software Developer</h3> -->
 <!--- What I'm Doing Currently --->
-<h3 align="left">Currently</h3>
 <ul>
-  <li>🎓 I am studying Computer Science at Langara College</li>
+  <li>🎓Studying Computer Science @ Langara College</li>
   <li>💻 Software Developer @ Cornerstone</li>
   <li>🔁 Discover → Define → Design → Build → Measure → Iterate</li>
 </ul>
